@@ -5,7 +5,7 @@ A place for all the projects and work I'm doing as i teach myself front end deve
 
 | Project Link | Tools Used | Project Description |
 |---|---|---|
-|[Single Page CV](https://github.com/KertC55/roadmap.sh-projects/blob/main/1-single-pageCV/index.html](https://roadmap.sh/projects/single-page-cv)|HTML|Created a CV using only HTML with a focus on semantics, seo, and OG tags|
+|[Single Page CV](https://roadmap.sh/projects/single-page-cv)|HTML|Created a CV using only HTML with a focus on semantics, seo, and OG tags|
   ***
 
  
